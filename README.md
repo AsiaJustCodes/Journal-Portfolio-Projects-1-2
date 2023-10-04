@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Journal-Portfolio-Projects-1-2
 
 **What was the problem you were solving in the projects for this course?**
 
